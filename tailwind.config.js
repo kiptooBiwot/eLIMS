@@ -11,8 +11,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Inter", "ui-sans-serif"],
-        serif: ["Inter", "ui-serif"],
+        sans: ["Inter"],
+        serif: ["Inter"],
       },
       colors: {
         'saddle': {
