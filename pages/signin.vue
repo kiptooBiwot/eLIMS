@@ -8,10 +8,15 @@ const password = ref('')
     <div class="block md:flex justify-center items-center min-h-screen">
       <div class="w-full md:w-2/3 flex items-center justify-center">
         <img
+          src="/images/signup.jpeg"
+          class="object-contain mt-[50px] mb-[30px] md:mt-0 w-[280px] h-[450px] md:w-full"
+          alt=""
+        />
+        <!-- <img
           src="/images/signin.webp"
           class="object-contain mt-[50px] mb-[30px] md:mt-0 w-[280px] md:w-full"
           alt=""
-        />
+        /> -->
       </div>
       <div class="w-full md:w-1/3 flex items-center justify-center">
         <div

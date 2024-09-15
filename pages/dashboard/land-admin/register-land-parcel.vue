@@ -7,9 +7,9 @@ const status = ['Active', 'Disputed']
 const use = ['Residential', 'Commercial', 'Agricultural']
 
 const location = ref('')
-const latitude = ref('')
+// const latitude = ref('')
 const upi = ref('')
-const longitude = ref('')
+// const longitude = ref('')
 const titleDeedNumber = ref('')
 const landStatus = ref('')
 const landUse = ref('')
@@ -41,38 +41,32 @@ const landSize = ref(0)
                   placeholder="What is the unique identifier of the parcel of land"
                 />
               </UFormGroup>
-              <UFormGroup label="Latitude">
-                <UInput
-                  v-model="latitude"
-                  placeholder="Enter the latitude of the  parcel of land"
-                />
-              </UFormGroup>
-              <UFormGroup label="Longitude">
-                <UInput
-                  v-model="longitude"
-                  placeholder="Enter the longitude of the  parcel of land"
-                />
-              </UFormGroup>
-            </div>
-            <div class="flex-1 space-y-5">
               <UFormGroup label="Title Deed Number">
                 <UInput
                   v-model="titleDeedNumber"
                   placeholder="Enter the title deed number of the  parcel"
                 />
               </UFormGroup>
-              <UFormGroup label="Land Parcel Size">
+
+              <!-- <UFormGroup label="Latitude">
+                <UInput
+                  v-model="latitude"
+                  placeholder="Enter the latitude of the  parcel of land"
+                />
+              </UFormGroup> -->
+              <!-- <UFormGroup label="Longitude">
+                <UInput
+                  v-model="longitude"
+                  placeholder="Enter the longitude of the  parcel of land"
+                />
+              </UFormGroup> -->
+            </div>
+            <div class="flex-1 space-y-5">
+              <UFormGroup label="Land Parcel Size (HA)">
                 <UInput
                   v-model="landSize"
                   type="number"
                   placeholder="What is the size of the land parcel?"
-                />
-              </UFormGroup>
-              <UFormGroup label="Land Status">
-                <USelect
-                  v-model="landStatus"
-                  placeholder="What is the land status?"
-                  :options="status"
                 />
               </UFormGroup>
               <UFormGroup label="Land Use">
@@ -80,6 +74,13 @@ const landSize = ref(0)
                   v-model="landUse"
                   placeholder="Select the use of the land"
                   :options="use"
+                />
+              </UFormGroup>
+              <UFormGroup label="Land Status">
+                <USelect
+                  v-model="landStatus"
+                  placeholder="What is the land status?"
+                  :options="status"
                 />
               </UFormGroup>
             </div>

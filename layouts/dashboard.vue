@@ -11,11 +11,17 @@ const menus = ref([
     icon: 'i-heroicons-adjustments-horizontal',
     children: [
       {
-        title: 'Register Land Parcel',
+        title: 'Land Registration',
         url: '/dashboard/land-admin/register-land-parcel',
       },
       { title: 'View Properties', url: '/dashboard/land-admin/view-all' },
       { title: 'Change Land Tenure', url: '/dashboard/property_registration' },
+      {
+        title: 'Ownership Management',
+        url: '/dashboard/property_registration',
+      },
+      { title: 'Deed Management', url: '/dashboard/property_registration' },
+      { title: 'Parcel Mapping', url: '/dashboard/property_registration' },
     ],
   },
   // {

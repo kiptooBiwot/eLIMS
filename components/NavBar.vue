@@ -1,4 +1,6 @@
 <script setup>
+const route = useRoute()
+
 const menuItems = [
   {
     title: 'Home',
@@ -34,12 +36,15 @@ const menuItems = [
           <li
             v-for="item in menuItems"
             :key="item.title"
-            class="md:ml-5 text-gray-200 uppercase tracking-wide font-heading font-semibold hover:text-accent-one transition duration-700 ease-in-out"
+            class="md:ml-5 text-primary-300 uppercase tracking-wide font-heading font-semibold hover:text-accent-one transition duration-700 ease-in-out"
           >
             <NuxtLink :to="item.linkUrl">
               <UButton
                 variant="link"
-                class="uppercase text-xs md:text-sm text-apple-400"
+                class="uppercase text-xs md:text-sm text-primary-500"
+                :class="[
+                  route.fullPath == '/' ? 'text-white ' : 'text-primary-500',
+                ]"
                 >{{ item.title }}</UButton
               >
             </NuxtLink>
