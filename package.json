@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@nuxt/ui": "^2.18.4",
+    "@pinia/nuxt": "^0.5.4",
     "@samk-dev/nuxt-vcalendar": "^1.0.4",
     "nuxt": "^3.13.0",
     "vue": "latest",
@@ -18,5 +19,8 @@
   },
   "devDependencies": {
     "@iconify-json/ic": "^1.2.0"
+  },
+  "overrides": {
+    "vue": "latest"
   }
 }

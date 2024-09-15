@@ -1,0 +1,930 @@
+{
+  "land_parcels": [
+    {
+      "id": 1,
+      "upi": "UPI4168344074",
+      "titleDeedNumber": "TD00001",
+      "landSize": "15 ",
+      "landUse": "residential",
+      "location": {
+        "county": "Nairobi",
+        "subCounty": "Makadara",
+        "ward": "Makadara"
+      },
+      "latitude": -0.326667,
+      "longitude": 35.792253,
+      "landStatus": "disputed",
+      "ethereumId": "0xb82605566926001f77be09967b55cfca3aaa38dad6314398f2abaaaaac99d29b"
+    },
+    {
+      "id": 2,
+      "upi": "UPI3167861421",
+      "titleDeedNumber": "TD00002",
+      "landSize": "30 ",
+      "landUse": "residential",
+      "location": {
+        "county": "Uasin Gishu",
+        "subCounty": "Soy",
+        "ward": "Road"
+      },
+      "latitude": 0.104115,
+      "longitude": 39.848464,
+      "landStatus": "active",
+      "ethereumId": "0x2aaa15beac97c508fdfbed66121324d9495dd8a69faadb865419eac3d9d8e04b"
+    },
+    {
+      "id": 3,
+      "upi": "UPI8597230698",
+      "titleDeedNumber": "TD00003",
+      "landSize": "29 ",
+      "landUse": "residential",
+      "location": {
+        "county": "Nyeri",
+        "subCounty": "Nyeri Town",
+        "ward": "Pine"
+      },
+      "latitude": -0.867337,
+      "longitude": 38.863493,
+      "landStatus": "active",
+      "ethereumId": "0x13be121c5c14192fd494e4fea8015c015966db38454e4d13260725ae7d2b42d2"
+    },
+    {
+      "id": 4,
+      "upi": "UPI5311850946",
+      "titleDeedNumber": "TD00004",
+      "landSize": "49 ",
+      "landUse": "agricultural",
+      "location": {
+        "county": "Josephfort",
+        "subCounty": "burgh",
+        "ward": "Way"
+      },
+      "latitude": 0.696607,
+      "longitude": 35.100972,
+      "landStatus": "disputed",
+      "ethereumId": "0xadc003b91532e2964e6da9ea0f6017eb1a7da4d616a545ea8411274619117d45"
+    },
+    {
+      "id": 5,
+      "upi": "UPI2994155434",
+      "titleDeedNumber": "TD00005",
+      "landSize": "26 ",
+      "landUse": "commercial",
+      "location": {
+        "county": "Sarahton",
+        "subCounty": "ville",
+        "ward": "Neck"
+      },
+      "latitude": -1.273251,
+      "longitude": 40.747572,
+      "landStatus": "active",
+      "ethereumId": "0x4ba4e7eff7e74a4e482d8280698f7408e66368df35e502c738e5bda94c7ebbbd"
+    },
+    {
+      "id": 6,
+      "upi": "UPI8044735748",
+      "titleDeedNumber": "TD00006",
+      "landSize": "13 ",
+      "landUse": "agricultural",
+      "location": {
+        "county": "Audreychester",
+        "subCounty": "borough",
+        "ward": "Prairie"
+      },
+      "latitude": 0.91809,
+      "longitude": 41.552501,
+      "landStatus": "active",
+      "ethereumId": "0x8af33ecd78078d31a322cf373551bf7dcae4988e945c34b902c35c9ff7355419"
+    },
+    {
+      "id": 7,
+      "upi": "UPI3008962761",
+      "titleDeedNumber": "TD00007",
+      "landSize": "22 ",
+      "landUse": "agricultural",
+      "location": {
+        "county": "New Christian",
+        "subCounty": "chester",
+        "ward": "Via"
+      },
+      "latitude": 0.002871,
+      "longitude": 36.953548,
+      "landStatus": "active",
+      "ethereumId": "0x7fba1b1796c5b1e3678292a2abab6f7d713bec5f1c30120c9794449132e389dc"
+    },
+    {
+      "id": 8,
+      "upi": "UPI9147878018",
+      "titleDeedNumber": "TD00008",
+      "landSize": "41 ",
+      "landUse": "residential",
+      "location": {
+        "county": "Williamsonbury",
+        "subCounty": "port",
+        "ward": "Springs"
+      },
+      "latitude": -3.504629,
+      "longitude": 39.325957,
+      "landStatus": "disputed",
+      "ethereumId": "0x8cc73d031a0ce0d80f82ae410c6f8925db6d29699133dcea861097a8cd049169"
+    },
+    {
+      "id": 9,
+      "upi": "UPI7397895075",
+      "titleDeedNumber": "TD00009",
+      "landSize": "2 ",
+      "landUse": "commercial",
+      "location": {
+        "county": "Joneschester",
+        "subCounty": "haven",
+        "ward": "Way"
+      },
+      "latitude": 0.206156,
+      "longitude": 39.621912,
+      "landStatus": "disputed",
+      "ethereumId": "0x6c48f7eaa636ade3bbb64b51abc5af1be7e08a4a1e1aeaa8fb48f75e53ef324b"
+    },
+    {
+      "id": 10,
+      "upi": "UPI1562475966",
+      "titleDeedNumber": "TD00010",
+      "landSize": "17 ",
+      "landUse": "agricultural",
+      "location": {
+        "county": "Lake Scott",
+        "subCounty": "berg",
+        "ward": "Turnpike"
+      },
+      "latitude": 0.98812,
+      "longitude": 41.092734,
+      "landStatus": "active",
+      "ethereumId": "0x855391a61e751484f8a35a2d34a6c1bd2538cf1c08bba66613dda2179e4ddc9f"
+    },
+    {
+      "id": 11,
+      "upi": "UPI2524715064",
+      "titleDeedNumber": "TD00011",
+      "landSize": "24 ",
+      "landUse": "residential",
+      "location": {
+        "county": "Sanchezshire",
+        "subCounty": "fort",
+        "ward": "Plains"
+      },
+      "latitude": 2.064783,
+      "longitude": 41.717622,
+      "landStatus": "active",
+      "ethereumId": "0xfb88ed1f5835e27ddf24135713c3ea78aec7327d4f7f832ac9c69cfddba3bf30"
+    },
+    {
+      "id": 12,
+      "upi": "UPI5494724307",
+      "titleDeedNumber": "TD00012",
+      "landSize": "49 ",
+      "landUse": "commercial",
+      "location": {
+        "county": "Maxwellport",
+        "subCounty": "mouth",
+        "ward": "Spurs"
+      },
+      "latitude": 1.307868,
+      "longitude": 41.778906,
+      "landStatus": "active",
+      "ethereumId": "0x045ff576f2305126378801bfea35ca272994d2dbb440c4248ff7c01f7e2ecbd3"
+    },
+    {
+      "id": 13,
+      "upi": "UPI4390896531",
+      "titleDeedNumber": "TD00013",
+      "landSize": "40 ",
+      "landUse": "commercial",
+      "location": {
+        "county": "East Nicolebury",
+        "subCounty": "mouth",
+        "ward": "Crest"
+      },
+      "latitude": 2.086617,
+      "longitude": 40.510907,
+      "landStatus": "active",
+      "ethereumId": "0xa2fa5ce3f7ae359a8b4845a253294ac9f231ca0b5eeb672e1bc8cfab2419ae6a"
+    },
+    {
+      "id": 14,
+      "upi": "UPI2828385353",
+      "titleDeedNumber": "TD00014",
+      "landSize": "37 ",
+      "landUse": "residential",
+      "location": {
+        "county": "Richardhaven",
+        "subCounty": "port",
+        "ward": "Ramp"
+      },
+      "latitude": 1.115107,
+      "longitude": 39.929949,
+      "landStatus": "active",
+      "ethereumId": "0xc683ec5177375a89a0788f7d249cdfaa205faef810c5dc38900f4a014da78adf"
+    },
+    {
+      "id": 15,
+      "upi": "UPI7718933460",
+      "titleDeedNumber": "TD00015",
+      "landSize": "19 ",
+      "landUse": "commercial",
+      "location": {
+        "county": "Linport",
+        "subCounty": "town",
+        "ward": "Cove"
+      },
+      "latitude": 2.439132,
+      "longitude": 39.810316,
+      "landStatus": "active",
+      "ethereumId": "0x70f89748397d5cb40fc54352ab3602778601ceb76a61ec25a12b1d4033496f7c"
+    },
+    {
+      "id": 16,
+      "upi": "UPI2308025330",
+      "titleDeedNumber": "TD00016",
+      "landSize": "17 ",
+      "landUse": "agricultural",
+      "location": {
+        "county": "Dunnshire",
+        "subCounty": "town",
+        "ward": "Drive"
+      },
+      "latitude": -1.014136,
+      "longitude": 38.273789,
+      "landStatus": "active",
+      "ethereumId": "0x3a0265cd7d9f1192eb22021a993c290f2c60a4df3855671d9b9df21308df4183"
+    },
+    {
+      "id": 17,
+      "upi": "UPI9226973432",
+      "titleDeedNumber": "TD00017",
+      "landSize": "28 ",
+      "landUse": "commercial",
+      "location": {
+        "county": "New Sara",
+        "subCounty": "port",
+        "ward": "Hills"
+      },
+      "latitude": -4.25218,
+      "longitude": 39.600371,
+      "landStatus": "disputed",
+      "ethereumId": "0x91c4a8145400f5b59f94f6670ed6efeb19e9554c2872a786d7d018b793c6b460"
+    },
+    {
+      "id": 18,
+      "upi": "UPI6654428022",
+      "titleDeedNumber": "TD00018",
+      "landSize": "37 ",
+      "landUse": "residential",
+      "location": {
+        "county": "Fisherhaven",
+        "subCounty": "ville",
+        "ward": "Point"
+      },
+      "latitude": 1.17223,
+      "longitude": 34.476335,
+      "landStatus": "disputed",
+      "ethereumId": "0x3f3580c3f5d1e0c7ca344e8db16ae4f614ec2c312ac25f602f3f1fc667d24339"
+    },
+    {
+      "id": 19,
+      "upi": "UPI1864348328",
+      "titleDeedNumber": "TD00019",
+      "landSize": "10 ",
+      "landUse": "commercial",
+      "location": {
+        "county": "Lake Paulabury",
+        "subCounty": "ville",
+        "ward": "Greens"
+      },
+      "latitude": -1.450974,
+      "longitude": 39.881734,
+      "landStatus": "active",
+      "ethereumId": "0x1c29c49124bee2c41535d68f42a22d5c6fa4f02a7318b1fbfff8e8c63b27821e"
+    },
+    {
+      "id": 20,
+      "upi": "UPI5586521330",
+      "titleDeedNumber": "TD00020",
+      "landSize": "31 ",
+      "landUse": "commercial",
+      "location": {
+        "county": "Gordonstad",
+        "subCounty": "mouth",
+        "ward": "Haven"
+      },
+      "latitude": -0.652651,
+      "longitude": 35.906698,
+      "landStatus": "disputed",
+      "ethereumId": "0x26e1e00a3463053dfb9b6ad59012b23f2e207a5957c704b46e7ddc114c2bb82f"
+    }
+  ],
+  "ownerships": [
+    {
+      "ownerId": 1,
+      "parcelId": 1,
+      "ownershipType": "leasehold",
+      "startDate": "2001-11-08",
+      "endDate": "2011-08-16",
+      "isActive": false
+    },
+    {
+      "ownerId": 2,
+      "parcelId": 2,
+      "ownershipType": "individual",
+      "startDate": "2023-02-19",
+      "endDate": null,
+      "isActive": true
+    },
+    {
+      "ownerId": 3,
+      "parcelId": 3,
+      "ownershipType": "individual",
+      "startDate": "2018-04-11",
+      "endDate": null,
+      "isActive": true
+    },
+    {
+      "ownerId": 4,
+      "parcelId": 4,
+      "ownershipType": "individual",
+      "startDate": "2009-08-04",
+      "endDate": null,
+      "isActive": true
+    },
+    {
+      "ownerId": 5,
+      "parcelId": 5,
+      "ownershipType": "group",
+      "startDate": "2000-12-26",
+      "endDate": "2022-08-02",
+      "isActive": false
+    },
+    {
+      "ownerId": 6,
+      "parcelId": 6,
+      "ownershipType": "individual",
+      "startDate": "2009-02-05",
+      "endDate": null,
+      "isActive": true
+    },
+    {
+      "ownerId": 7,
+      "parcelId": 7,
+      "ownershipType": "group",
+      "startDate": "2018-06-11",
+      "endDate": "2018-07-31",
+      "isActive": false
+    },
+    {
+      "ownerId": 8,
+      "parcelId": 8,
+      "ownershipType": "individual",
+      "startDate": "2010-08-10",
+      "endDate": "2009-12-02",
+      "isActive": true
+    },
+    {
+      "ownerId": 9,
+      "parcelId": 9,
+      "ownershipType": "leasehold",
+      "startDate": "2012-09-15",
+      "endDate": "2015-01-01",
+      "isActive": true
+    },
+    {
+      "ownerId": 10,
+      "parcelId": 10,
+      "ownershipType": "leasehold",
+      "startDate": "2003-09-23",
+      "endDate": "2022-05-10",
+      "isActive": true
+    },
+    {
+      "ownerId": 11,
+      "parcelId": 11,
+      "ownershipType": "group",
+      "startDate": "2010-06-04",
+      "endDate": null,
+      "isActive": true
+    },
+    {
+      "ownerId": 12,
+      "parcelId": 12,
+      "ownershipType": "individual",
+      "startDate": "2004-01-13",
+      "endDate": "2015-10-12",
+      "isActive": false
+    },
+    {
+      "ownerId": 13,
+      "parcelId": 13,
+      "ownershipType": "group",
+      "startDate": "2018-09-07",
+      "endDate": "2011-03-29",
+      "isActive": true
+    },
+    {
+      "ownerId": 14,
+      "parcelId": 14,
+      "ownershipType": "group",
+      "startDate": "2023-08-03",
+      "endDate": "2006-04-27",
+      "isActive": true
+    },
+    {
+      "ownerId": 15,
+      "parcelId": 15,
+      "ownershipType": "leasehold",
+      "startDate": "2021-08-29",
+      "endDate": "2020-09-06",
+      "isActive": false
+    },
+    {
+      "ownerId": 16,
+      "parcelId": 16,
+      "ownershipType": "leasehold",
+      "startDate": "2009-03-15",
+      "endDate": null,
+      "isActive": false
+    },
+    {
+      "ownerId": 17,
+      "parcelId": 17,
+      "ownershipType": "leasehold",
+      "startDate": "2008-05-31",
+      "endDate": null,
+      "isActive": false
+    },
+    {
+      "ownerId": 18,
+      "parcelId": 18,
+      "ownershipType": "group",
+      "startDate": "2022-08-13",
+      "endDate": null,
+      "isActive": false
+    },
+    {
+      "ownerId": 19,
+      "parcelId": 19,
+      "ownershipType": "individual",
+      "startDate": "2024-07-05",
+      "endDate": null,
+      "isActive": false
+    },
+    {
+      "ownerId": 20,
+      "parcelId": 20,
+      "ownershipType": "leasehold",
+      "startDate": "2006-04-30",
+      "endDate": null,
+      "isActive": false
+    }
+  ],
+  "owners": [
+    {
+      "ownerId": 1,
+      "firstName": "Heather",
+      "lastName": "Valdez",
+      "companyName": "Webb-Jenkins",
+      "idNumber": "095-94-4395",
+      "phoneNumber": "564.675.8726",
+      "email": "brian16@hotmail.com",
+      "physicalAddress": "49855 Michelle Locks Suite 279\nJohnsonbury, TN 23040",
+      "county": "North Nicholasland"
+    },
+    {
+      "ownerId": 2,
+      "firstName": "Amy",
+      "lastName": "Mendoza",
+      "companyName": null,
+      "idNumber": "264-34-7005",
+      "phoneNumber": "311.164.7727x92058",
+      "email": "buckcatherine@johnson.com",
+      "physicalAddress": "PSC 2428, Box 4881\nAPO AP 12974",
+      "county": "Perkinsfurt"
+    },
+    {
+      "ownerId": 3,
+      "firstName": "Tracy",
+      "lastName": "Thompson",
+      "companyName": "Melton, Arnold and Spencer",
+      "idNumber": "704-91-5517",
+      "phoneNumber": "+1-588-819-8013",
+      "email": "andersonlaura@gmail.com",
+      "physicalAddress": "37817 Elizabeth Isle Apt. 273\nEast Logan, WA 06626",
+      "county": "Roychester"
+    },
+    {
+      "ownerId": 4,
+      "firstName": "Mark",
+      "lastName": "Williamson",
+      "companyName": null,
+      "idNumber": "357-96-5108",
+      "phoneNumber": "001-795-962-7962",
+      "email": "jeffrey38@gmail.com",
+      "physicalAddress": "2009 Butler Knoll Suite 598\nSouth Michaelbury, WI 44797",
+      "county": "New Meganland"
+    },
+    {
+      "ownerId": 5,
+      "firstName": "Angela",
+      "lastName": "Mccarty",
+      "companyName": "White-Dudley",
+      "idNumber": "688-13-8387",
+      "phoneNumber": "(499)411-3197x2299",
+      "email": "parsonsdan@yahoo.com",
+      "physicalAddress": "USCGC Jones\nFPO AE 45686",
+      "county": "Michaelmouth"
+    },
+    {
+      "ownerId": 6,
+      "firstName": "Kelly",
+      "lastName": "Graham",
+      "companyName": null,
+      "idNumber": "446-10-9179",
+      "phoneNumber": "756.749.4552x9950",
+      "email": "alvaradocole@gmail.com",
+      "physicalAddress": "20818 Lopez Lane\nMeghanmouth, NY 61664",
+      "county": "Johnstad"
+    },
+    {
+      "ownerId": 7,
+      "firstName": "Joshua",
+      "lastName": "James",
+      "companyName": "Foster PLC",
+      "idNumber": "713-94-9917",
+      "phoneNumber": "428.245.2180",
+      "email": "clarkcaleb@patrick.com",
+      "physicalAddress": "06223 Philip River\nEast Juliashire, KY 73155",
+      "county": "Lake John"
+    },
+    {
+      "ownerId": 8,
+      "firstName": "Maria",
+      "lastName": "Hunt",
+      "companyName": null,
+      "idNumber": "141-65-7241",
+      "phoneNumber": "(231)036-4086",
+      "email": "dustinmartinez@hotmail.com",
+      "physicalAddress": "8411 David Tunnel Suite 794\nEast Ian, ID 18556",
+      "county": "Stevenmouth"
+    },
+    {
+      "ownerId": 9,
+      "firstName": "Bobby",
+      "lastName": "Gonzales",
+      "companyName": "Harris-Fisher",
+      "idNumber": "336-18-5801",
+      "phoneNumber": "(105)021-2458",
+      "email": "kelly32@yahoo.com",
+      "physicalAddress": "1989 Elliott Mills Suite 097\nWest Brandon, NY 85262",
+      "county": "Port Matthew"
+    },
+    {
+      "ownerId": 10,
+      "firstName": "Lisa",
+      "lastName": "Arellano",
+      "companyName": null,
+      "idNumber": "589-84-3964",
+      "phoneNumber": "813.038.6731",
+      "email": "kyle06@brown.info",
+      "physicalAddress": "2286 Lewis River Suite 759\nNorth Philip, TX 54552",
+      "county": "Lake Regina"
+    },
+    {
+      "ownerId": 11,
+      "firstName": "Julia",
+      "lastName": "Clark",
+      "companyName": "Collins-Ingram",
+      "idNumber": "548-98-4094",
+      "phoneNumber": "070-740-5783",
+      "email": "zjones@gmail.com",
+      "physicalAddress": "36988 Jessica Forks Suite 216\nSouth Chad, NE 80727",
+      "county": "Strongbury"
+    },
+    {
+      "ownerId": 12,
+      "firstName": "Brooke",
+      "lastName": "Vasquez",
+      "companyName": null,
+      "idNumber": "566-27-5352",
+      "phoneNumber": "(991)943-3346",
+      "email": "victorrobinson@hotmail.com",
+      "physicalAddress": "991 Mark Island Suite 367\nPort Adrianside, MD 93142",
+      "county": "Smithtown"
+    },
+    {
+      "ownerId": 13,
+      "firstName": "Joe",
+      "lastName": "Peterson",
+      "companyName": "Rodriguez LLC",
+      "idNumber": "307-27-0684",
+      "phoneNumber": "001-940-290-7367",
+      "email": "qherrera@hotmail.com",
+      "physicalAddress": "Unit 8014 Box 4660\nDPO AP 54476",
+      "county": "Stephanieshire"
+    },
+    {
+      "ownerId": 14,
+      "firstName": "Daniel",
+      "lastName": "Sweeney",
+      "companyName": null,
+      "idNumber": "187-38-8266",
+      "phoneNumber": "228-563-9009x41973",
+      "email": "tconrad@yahoo.com",
+      "physicalAddress": "77352 Mahoney Knoll\nMichaelville, VT 64290",
+      "county": "Carlaton"
+    },
+    {
+      "ownerId": 15,
+      "firstName": "Kyle",
+      "lastName": "Walton",
+      "companyName": "Collins Inc",
+      "idNumber": "413-74-5495",
+      "phoneNumber": "(571)538-6311x5942",
+      "email": "gstrong@jordan.com",
+      "physicalAddress": "USNV Davis\nFPO AA 31140",
+      "county": "Garciamouth"
+    },
+    {
+      "ownerId": 16,
+      "firstName": "Elizabeth",
+      "lastName": "Dalton",
+      "companyName": null,
+      "idNumber": "279-89-0563",
+      "phoneNumber": "001-440-339-2067x7314",
+      "email": "mark91@yahoo.com",
+      "physicalAddress": "687 Angela Oval\nAndreaberg, NY 87092",
+      "county": "Clarkland"
+    },
+    {
+      "ownerId": 17,
+      "firstName": "Ricky",
+      "lastName": "Esparza",
+      "companyName": "Burke, Jones and Carlson",
+      "idNumber": "421-17-9987",
+      "phoneNumber": "(938)109-2571",
+      "email": "kfischer@gmail.com",
+      "physicalAddress": "872 Lisa Drives\nErikamouth, MS 89781",
+      "county": "Bradyburgh"
+    },
+    {
+      "ownerId": 18,
+      "firstName": "Craig",
+      "lastName": "Hudson",
+      "companyName": null,
+      "idNumber": "079-30-4868",
+      "phoneNumber": "+1-753-347-2440x2979",
+      "email": "williamsashley@yahoo.com",
+      "physicalAddress": "4792 Ibarra Junction\nLake Maria, TX 77228",
+      "county": "East Katrina"
+    },
+    {
+      "ownerId": 19,
+      "firstName": "Gabriel",
+      "lastName": "Woodward",
+      "companyName": "Wright-Lopez",
+      "idNumber": "337-69-4693",
+      "phoneNumber": "989-569-5374",
+      "email": "barroncharles@peterson-kennedy.com",
+      "physicalAddress": "PSC 3594, Box 0642\nAPO AA 84252",
+      "county": "South Jared"
+    },
+    {
+      "ownerId": 20,
+      "firstName": "John",
+      "lastName": "Ortiz",
+      "companyName": null,
+      "idNumber": "220-23-2430",
+      "phoneNumber": "(439)210-8828",
+      "email": "ajennings@webb.com",
+      "physicalAddress": "18768 Michael Roads Apt. 273\nHardyside, MD 83558",
+      "county": "South Lisaland"
+    }
+  ],
+  "transactions": [
+    {
+      "transactionId": 1,
+      "parcelId": 1,
+      "transactionType": "sale",
+      "buyerId": 10,
+      "sellerId": 1,
+      "transactionAmount": 7516990,
+      "transactionDate": "2007-01-20",
+      "recordedBy": "Frederick Carpenter",
+      "status": "pending"
+    },
+    {
+      "transactionId": 2,
+      "parcelId": 2,
+      "transactionType": "lease",
+      "buyerId": 8,
+      "sellerId": 2,
+      "transactionAmount": 8578278,
+      "transactionDate": "2022-08-08",
+      "recordedBy": "Andrew Waters",
+      "status": "pending"
+    },
+    {
+      "transactionId": 3,
+      "parcelId": 3,
+      "transactionType": "lease",
+      "buyerId": 17,
+      "sellerId": 3,
+      "transactionAmount": 8144616,
+      "transactionDate": "2005-07-26",
+      "recordedBy": "Thomas Mitchell",
+      "status": "completed"
+    },
+    {
+      "transactionId": 4,
+      "parcelId": 4,
+      "transactionType": "dispute",
+      "buyerId": 1,
+      "sellerId": 4,
+      "transactionAmount": 2947198,
+      "transactionDate": "2019-08-24",
+      "recordedBy": "Charles Allen",
+      "status": "pending"
+    },
+    {
+      "transactionId": 5,
+      "parcelId": 5,
+      "transactionType": "dispute",
+      "buyerId": 7,
+      "sellerId": 5,
+      "transactionAmount": 6636756,
+      "transactionDate": "2003-05-22",
+      "recordedBy": "Kevin Mclean",
+      "status": "completed"
+    },
+    {
+      "transactionId": 6,
+      "parcelId": 6,
+      "transactionType": "lease",
+      "buyerId": 14,
+      "sellerId": 6,
+      "transactionAmount": 7667064,
+      "transactionDate": "2017-08-08",
+      "recordedBy": "Jonathan Walton",
+      "status": "completed"
+    },
+    {
+      "transactionId": 7,
+      "parcelId": 7,
+      "transactionType": "lease",
+      "buyerId": 10,
+      "sellerId": 7,
+      "transactionAmount": 7635899,
+      "transactionDate": "2016-07-22",
+      "recordedBy": "Shawn Wright",
+      "status": "completed"
+    },
+    {
+      "transactionId": 8,
+      "parcelId": 8,
+      "transactionType": "dispute",
+      "buyerId": 12,
+      "sellerId": 8,
+      "transactionAmount": 8620054,
+      "transactionDate": "2017-09-19",
+      "recordedBy": "Whitney Lopez",
+      "status": "completed"
+    },
+    {
+      "transactionId": 9,
+      "parcelId": 9,
+      "transactionType": "dispute",
+      "buyerId": 20,
+      "sellerId": 9,
+      "transactionAmount": 1909662,
+      "transactionDate": "2012-11-15",
+      "recordedBy": "Janet Carter",
+      "status": "completed"
+    },
+    {
+      "transactionId": 10,
+      "parcelId": 10,
+      "transactionType": "dispute",
+      "buyerId": 18,
+      "sellerId": 10,
+      "transactionAmount": 8226961,
+      "transactionDate": "2015-10-24",
+      "recordedBy": "Matthew Friedman",
+      "status": "completed"
+    },
+    {
+      "transactionId": 11,
+      "parcelId": 11,
+      "transactionType": "lease",
+      "buyerId": 1,
+      "sellerId": 11,
+      "transactionAmount": 5183181,
+      "transactionDate": "2023-10-30",
+      "recordedBy": "Paul Smith",
+      "status": "completed"
+    },
+    {
+      "transactionId": 12,
+      "parcelId": 12,
+      "transactionType": "sale",
+      "buyerId": 5,
+      "sellerId": 12,
+      "transactionAmount": 2779154,
+      "transactionDate": "2022-04-21",
+      "recordedBy": "Andrew Henderson",
+      "status": "completed"
+    },
+    {
+      "transactionId": 13,
+      "parcelId": 13,
+      "transactionType": "lease",
+      "buyerId": 6,
+      "sellerId": 13,
+      "transactionAmount": 5455786,
+      "transactionDate": "2011-05-18",
+      "recordedBy": "Tara Hardy",
+      "status": "completed"
+    },
+    {
+      "transactionId": 14,
+      "parcelId": 14,
+      "transactionType": "transfer",
+      "buyerId": 8,
+      "sellerId": 14,
+      "transactionAmount": 7103163,
+      "transactionDate": "2023-05-01",
+      "recordedBy": "Jeremy Sweeney",
+      "status": "pending"
+    },
+    {
+      "transactionId": 15,
+      "parcelId": 15,
+      "transactionType": "dispute",
+      "buyerId": 10,
+      "sellerId": 15,
+      "transactionAmount": 8803482,
+      "transactionDate": "2021-03-03",
+      "recordedBy": "Jason Cooper",
+      "status": "pending"
+    },
+    {
+      "transactionId": 16,
+      "parcelId": 16,
+      "transactionType": "lease",
+      "buyerId": 12,
+      "sellerId": 16,
+      "transactionAmount": 9616528,
+      "transactionDate": "2022-04-03",
+      "recordedBy": "Jason Davis",
+      "status": "pending"
+    },
+    {
+      "transactionId": 17,
+      "parcelId": 17,
+      "transactionType": "sale",
+      "buyerId": 20,
+      "sellerId": 17,
+      "transactionAmount": 1647087,
+      "transactionDate": "2022-04-02",
+      "recordedBy": "Donna Morgan",
+      "status": "pending"
+    },
+    {
+      "transactionId": 18,
+      "parcelId": 18,
+      "transactionType": "dispute",
+      "buyerId": 3,
+      "sellerId": 18,
+      "transactionAmount": 2482625,
+      "transactionDate": "2015-06-06",
+      "recordedBy": "Ricardo Wise",
+      "status": "completed"
+    },
+    {
+      "transactionId": 19,
+      "parcelId": 19,
+      "transactionType": "sale",
+      "buyerId": 2,
+      "sellerId": 19,
+      "transactionAmount": 6054162,
+      "transactionDate": "2013-06-08",
+      "recordedBy": "Morgan Acevedo",
+      "status": "completed"
+    },
+    {
+      "transactionId": 20,
+      "parcelId": 20,
+      "transactionType": "transfer",
+      "buyerId": 4,
+      "sellerId": 20,
+      "transactionAmount": 6694151,
+      "transactionDate": "2012-11-25",
+      "recordedBy": "Michael Beck",
+      "status": "completed"
+    }
+  ]
+}

@@ -15,13 +15,19 @@ const menus = ref([
         url: '/dashboard/land-admin/register-land-parcel',
       },
       { title: 'View Properties', url: '/dashboard/land-admin/view-all' },
-      { title: 'Change Land Tenure', url: '/dashboard/property_registration' },
+      {
+        title: 'Change Land Tenure',
+        url: '/dashboard/land-admin/change-land-tenure',
+      },
       {
         title: 'Ownership Management',
-        url: '/dashboard/property_registration',
+        url: '/dashboard/land-admin/ownership-management',
       },
-      { title: 'Deed Management', url: '/dashboard/property_registration' },
-      { title: 'Parcel Mapping', url: '/dashboard/property_registration' },
+      {
+        title: 'Deed Management',
+        url: '/dashboard/land-admin/deed-management',
+      },
+      { title: 'Parcel Mapping', url: '/dashboard/land-admin/parcel-mapping' },
     ],
   },
   // {

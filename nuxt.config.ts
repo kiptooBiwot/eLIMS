@@ -12,5 +12,8 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ['@nuxt/ui', '@samk-dev/nuxt-vcalendar'],
+  modules: ['@nuxt/ui', '@samk-dev/nuxt-vcalendar', '@pinia/nuxt'],
+  pinia: {
+    storesDirs: ['./stores/**', './custom-folder/stores/**'],
+  },
 })
