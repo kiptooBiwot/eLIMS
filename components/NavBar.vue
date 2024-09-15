@@ -24,8 +24,9 @@ const menuItems = [
         <div
           class="flex items-center gap-2 text-primary-500 hover:text-primary-400 cursor-pointer"
         >
-          <UIcon name="i-heroicons-map" class="w-10 h-10 text-primary-500" />
-          <h3 class="font-bold text-primary text-3xl">eLIMS</h3>
+          <ElimsLogo />
+          <!-- <UIcon name="i-heroicons-map" class="w-10 h-10 text-primary-500" />
+          <h3 class="font-bold text-primary text-3xl">eLIMS</h3> -->
         </div>
       </div>
       <div class="">

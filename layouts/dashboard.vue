@@ -14,23 +14,34 @@ const menus = ref([
         title: 'Register Land Parcel',
         url: '/dashboard/land-admin/register-land-parcel',
       },
-      { title: '', url: '/dashboard/property_registration' },
+      { title: 'View Properties', url: '/dashboard/land-admin/view-all' },
+      { title: 'Change Land Tenure', url: '/dashboard/property_registration' },
     ],
   },
+  // {
+  //   title: 'Change of Land Tenure',
+  //   icon: 'i-heroicons-document-text',
+  //   children: [
+  //     { title: 'Change Land Status', url: '/dashboard/' },
+  //     { title: 'Change Land Status', url: '/dashboard/' },
+  //   ],
+  // },
   {
-    title: 'Change of Land Tenure',
-    icon: 'i-heroicons-document-text',
-    children: [
-      { title: 'Change Land Status', url: '/dashboard/' },
-      { title: 'Change Land Status', url: '/dashboard/' },
-    ],
-  },
-  {
-    title: 'Registered Land Surveyors',
+    title: 'Registered Professionals',
     icon: 'i-heroicons-user-group',
     children: [
-      { title: 'Register a Surveyor', url: '/dashboard/new-surveyor' },
-      { title: 'Show All', url: '/dashboard/all-surveyors' },
+      {
+        title: 'Land Surveyors',
+        url: '/dashboard/registered-professionals/land-surveyors',
+      },
+      {
+        title: 'Land Valuers',
+        url: '/dashboard/registered-professionals/land-valuers',
+      },
+      {
+        title: 'Urban Planners',
+        url: '/dashboard/registered-professionals/urban-planners',
+      },
     ],
   },
   {
@@ -100,10 +111,11 @@ const toggleMenu = (index) => {
         'md:translate-x-0',
       ]"
     >
-      <div class="p-4 font-bold text-lg">
+      <div class="p-4 font-bold text-lg bg-saddle-100">
         <div class="flex gap-2 mt-5">
-          <UIcon name="i-heroicons-map" class="w-8 h-8 text-primary-500" />
-          <h3 class="font-bold text-primary text-2xl">eLIMS</h3>
+          <ElimsLogo />
+          <!-- <UIcon name="i-heroicons-map" class="w-8 h-8 text-primary-500" />
+          <h3 class="font-bold text-primary text-2xl">eLIMS</h3> -->
         </div>
       </div>
       <hr class="border-1 border-slate-600" />
